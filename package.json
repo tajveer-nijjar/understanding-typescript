@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tajveer-nijjar/understanding-typescript/issues"
   },
-  "homepage": "https://github.com/tajveer-nijjar/understanding-typescript#readme"
+  "homepage": "https://github.com/tajveer-nijjar/understanding-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
